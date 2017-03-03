@@ -1,0 +1,15 @@
+.form_container
+{
+	margin:10% auto;
+	height: 50%;
+	background-color: #f7f7f7;
+	border:1px solid #ccc;
+	border-radius:5px;
+	width:60%;
+}
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+    background-color: #f7f7f7;
+    background-image: none;
+    color: rgb(0, 0, 0);
+}
